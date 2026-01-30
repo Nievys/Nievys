@@ -1,9 +1,4 @@
 ---
-<p align="right">
-  <a href="https://github.com/nievys">
-    <img src="https://komarev.com/ghpvc/?username=nievys&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
-  </a>
-</p>
 
 ### 💻 Tech Stack
 <p align="left">
