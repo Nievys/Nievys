@@ -21,18 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nievys&show_icons=true&theme=dracula&layout=compact" alt="nievys Top Languages"/>
-</p>
-<p align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=nievys&show_icons=true&theme=dracula&locale=en" alt="nievys"/>
-</p>  
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nievys&theme=dark" alt="nievys"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
