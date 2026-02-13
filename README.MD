@@ -1,6 +1,6 @@
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/tyo-indra" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
@@ -45,7 +45,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Discord" width="40"/>
   </a>
 </p>
-
----
-
-<p align="center">✨ Always learning, building, and sharing ✨</p>
